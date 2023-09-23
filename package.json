@@ -5,7 +5,7 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ],
+  ], 
   "prisma": {
     "schema": "packages/database/schema.prisma"
   },
